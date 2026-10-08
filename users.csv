@@ -1,0 +1,9 @@
+user_id,full_name,email,role,department,joined_date
+1001,Aarav Sharma,aarav.sharma@example.com,AI Engineer,Engineering,2024-01-15
+1002,Priya Patel,priya.patel@example.com,MLOps Specialist,Infrastructure,2023-11-01
+1003,Rohan Gupta,rohan.gupta@example.com,Data Scientist,Analytics,2024-03-20
+1004,Sneha Rao,sneha.rao@example.com,Backend Developer,Engineering,2023-08-10
+1005,Vikram Singh,vikram.singh@example.com,Security Analyst,Cybersecurity,2024-02-05
+1006,Ananya Roy,ananya.roy@example.com,Product Manager,Product,2022-09-12
+1007,Karan Verma,karan.verma@example.com,DevOps Engineer,Infrastructure,2023-05-18
+1008,Deepa Menon,deepa.menon@example.com,QA Automation,Quality Assurance,2024-04-01
